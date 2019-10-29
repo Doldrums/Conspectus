@@ -1,5 +1,5 @@
 ---
-tags: mooc, stepik-statistics
+tags: stepik-statistics, mooc, maths
 ---
 
 # Статистика. Раздел 1 - Вступление
