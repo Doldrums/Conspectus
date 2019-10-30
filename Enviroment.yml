@@ -1,5 +1,0 @@
-name: conspects
-conspects:
-- conda-forge
-dependencies:
-- xeus-cling
