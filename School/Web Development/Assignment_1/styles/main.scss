@@ -2,7 +2,16 @@
 
 @import "config.scss";
 @import "slider.scss";
+@import "header.scss";
 
 body {
     font-family: $font-primary;
+}
+
+[disabled] {
+    display: none;
+}
+
+* {
+    box-sizing: border-box;
 }
