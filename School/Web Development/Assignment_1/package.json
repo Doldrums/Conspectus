@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@glidejs/glide": "^3.4.1",
     "autoprefixer": "^9.7.1",
     "normalize.css": "^8.0.1",
     "parcel-bundler": "^1.12.4",
